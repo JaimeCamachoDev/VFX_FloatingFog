@@ -8,5 +8,5 @@
 
 _VFX Graph in Unity 6 URP, Volume Floating Fog and Dithering_ 
 
--Volumetric Fog Need Forward + Rendering
+-Volumetric Fog need Forward + Rendering
 
