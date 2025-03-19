@@ -5,5 +5,7 @@
 
 # Floating Fog
 
-_VFX Graph in Unity 6 URP, Floating Fog_ Volumetric Fog Need Forward + Rendering
+_VFX Graph in Unity 6 URP, Floating Fog_ 
+
+-Volumetric Fog Need Forward + Rendering
 
